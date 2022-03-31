@@ -1,5 +1,5 @@
-body{
-    background-color: rgb(241, 241, 241);
+body{ 
+    background-color:#F5F6F7;
 }
 
 .logo{
@@ -10,7 +10,7 @@ body{
 }
 
 .search{
-    width: 500x;
+    width: 500px;
     height: 30px;
     font-size: 16px;
     margin-left: 380px;
