@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+   
+}
+
+#search{
+    width: 500x;
+    height: 30px;
+    font-size: 16px;
+    margin-left: 300px;
+    margin-top: 30px;
+  }
+  #search{
+    width: 500px;
+    height: 30px;
+    font-size: 16px;
+    margin-left: 300px;
+    margin-top: 5px;
+  }
+  
+ #login{
+
+    width: 509px;
+    height: 40px;
+    border: none;
+    background-color: #00c03c;
+    color: white;
+    font-size: 16px;
+    margin-left: 300px;
+    margin-top: 5px;
+}
+
+
